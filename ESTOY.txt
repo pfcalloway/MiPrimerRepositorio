@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-modifica3 toffo
-=======
-Estoy por romper
-German
-
->>>>>>> eed902a973f606dc774c9f5aabef1e29a5d2c93c
